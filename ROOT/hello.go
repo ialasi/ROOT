@@ -1,7 +1,7 @@
-package root
+package main
+
+import "fmt"
 
 func main() {
-
-	"fmt".printIn("Hello, World!")
-
+	fmt.Println("Hello World!")
 }
