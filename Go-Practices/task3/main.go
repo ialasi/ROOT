@@ -11,8 +11,8 @@ func main() {
 	difference := a - b
 	division := float64(a) / float64(b)
 
-	fmt.Println("Sum", sum)
-	fmt.Println("Product", product)
-	fmt.Println("Difference", difference)
-	fmt.Println("Division", division)
+	fmt.Println("Sum:", sum)
+	fmt.Println("Product:", product)
+	fmt.Println("Difference:", difference)
+	fmt.Println("Division:", division)
 }
