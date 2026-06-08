@@ -1,4 +1,3 @@
-cat > ~/ROOT/README.md << 'EOF'
 # ROOT — Go Learning Projects
 
 A collection of Go (Golang) projects and exercises completed as part of my programming journey as a beginner developer.
